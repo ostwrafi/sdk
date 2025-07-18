@@ -1,3 +1,21 @@
+# 📦 SDK - Simple Educational SDK Framework
+
+> 👨‍💻 Author: Nur Mohammad Rafi  
+> 📚 Project Type: Educational SDK Example  
+> 🎓 Purpose: Demonstrate how an SDK structure works in Python for modular development.
+
+---
+
+## 📌 Overview
+
+This project provides a simple structure for an SDK (Software Development Kit) in Python. It is intended for students and beginners to understand:
+
+- How SDKs are organized.
+- How to create reusable modules.
+- How to structure your code for scalability and reuse.
+
+---
+
 An SDK (Software Development Kit) in C++ is a collection of tools, libraries, documentation, and samples that help developers build software applications for a specific platform, framework, or API. SDKs provide pre-written code, compilers, debuggers, and other utilities to simplify development.
 
 What’s Included in an SDK?
